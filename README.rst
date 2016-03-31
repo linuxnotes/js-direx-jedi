@@ -4,8 +4,8 @@
 
 You can view Javascript code (right) in a tree style viewer (left):
 
-.. image:: https://github.com/linuxnoes/js-jedi-direx/js-jedi-direx.png
-   :target: https://github.com/linuxnoes/js-jedi-direx/js-jedi-direx.png
+.. image:: https://github.com/linuxnotes/js-jedi-direx/blob/master/js-jedi-direx.png
+   :target: https://github.com/linuxnotes/js-jedi-direx/blob/master/js-jedi-direx.png
  
 
 Setup
