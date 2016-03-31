@@ -10,7 +10,7 @@ You can view Javascript code (right) in a tree style viewer (left):
 
 Setup
 =====
-Example to open the viewer by `C-c x` in Python buffer::
+Example to open the viewer by `C-c x` in Javascript buffer::
 
 	(require 'js2-jedi-direx)
 	(defun js2-mode-complex-hook()
